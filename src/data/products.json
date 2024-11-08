@@ -1,0 +1,90 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Laptop",
+    "product_image": "https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=radek-grzybowski-eBRTYyjwpRY-unsplash.jpg",
+    "category": "computers",
+    "price": 550,
+    "description": "High performance laptop with powerful specs for productivity and multitasking.",
+    "Specification": ["16GB RAM", "512GB SSD", "Intel Core i7"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Business Laptop",
+    "product_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=christopher-gower-m_HRfLhgABo-unsplash.jpg",
+    "category": "computers",
+    "price": 470,
+    "description": "Reliable laptop for business needs with efficient performance.",
+    "Specification": ["8GB RAM", "256GB SSD", "Intel Core i5"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 3,
+    "product_title": "samsung galaxy s23 ultra",
+    "product_image": "https://images.unsplash.com/photo-1709744722656-9b850470293f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=bobby-raj-sirimani-lkhz29AXTTc-unsplash.jpg",
+    "category":"phones",
+    "price": 160,
+    "description": "Sleek smartphone with high-resolution camera and large storage.",
+    "Specification": ["128GB Storage", "8GB RAM", "48MP Camera"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 4,
+    "product_title": "iphone",
+    "product_image": "https://images.unsplash.com/photo-1699892131446-3aebcff41fb1?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=faded_gallery-W78mZFcoArA-unsplash.jpg",
+    "category": "phones",
+    "price": 120,
+    "description": "Budget-friendly smartphone with essential features.",
+    "Specification": ["64GB Storage", "4GB RAM"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 5,
+    "product_title": "Smart Watch",
+    "product_image": "https://images.unsplash.com/photo-1698729616379-78aa545b1043?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=al-amin-mir-BjHgEKGmIGY-unsplash.jpg",
+    "category": "Watches",
+    "price": 250,
+    "description": "Stylish smartwatch with health tracking and customizable watch faces.",
+    "Specification": ["Heart Rate Monitor", "GPS", "Sleep Tracking"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 6,
+    "product_title": "Fast Wall Charger",
+    "product_image": "https://images.unsplash.com/photo-1706275787561-09d1a5f7b277?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=gomi-IWMiQKbJIxg-unsplash.jpg",
+    "category": "Accessories",
+    "price": 30,
+    "description": "20W fast charging wall charger compatible with multiple devices.",
+    "Specification": ["20W Power Delivery", "USB-C"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 7,
+    "product_title": "Portable Power Bank",
+    "product_image": "https://images.unsplash.com/photo-1706275399494-fb26bbc5da63?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=gomi-CY4mVpRvPxc-unsplash.jpg",
+    "category": "Accessories",
+    "price": 400,
+    "description": "Compact power bank with 10000mAh capacity for on-the-go charging.",
+    "Specification": ["Dual USB Output", "LED Indicator", "Fast Charging"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 8,
+    "product_title": "Gaming Laptop",
+    "product_image": "https://images.unsplash.com/photo-1675049603723-37dfc5eed92f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=theodore-poncet-JXsx7lVeaAA-unsplash.jpg",
+    "category": "computers",
+    "price": 120,
+    "description": "High-end gaming laptop with advanced graphics and fast performance.",
+    "Specification": ["32GB RAM", "1TB SSD", "NVIDIA RTX 3060", "Intel Core i9"],
+    "availability": true,
+    "rating": 4.9
+  }
+]
