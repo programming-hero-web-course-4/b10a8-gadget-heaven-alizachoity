@@ -3,13 +3,12 @@
 ## Live Website Link
 [Live](https://gadget-heaven-iplg1gajr-alizas-projects-90600df2.vercel.app/)
 
-## Requirement Document Link
-[Requirements](
-## Project Name: GadgetHaven
+## Project Overview
+
+### Project Name: GadgetHaven
 
 ### Description:
-GadgetHaven is an e-commerce web application that allows users to browse, filter, and purchase gadgets. The application features a user-friendly interface and is built using React, Tailwind CSS, and DaisyUI.    
-)
+GadgetHaven is an e-commerce web application that allows users to browse, filter, and purchase gadgets. The application features a user-friendly interface and is built using React, Tailwind CSS, and DaisyUI.
 
 ## React Fundamental Concepts Used
 - Functional Components
