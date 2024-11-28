@@ -1,7 +1,7 @@
 # GadgetHaven
 
 ## Live Website Link
-[https://gadget-heaven-iplg1gajr-alizas-projects-90600df2.vercel.app/]
+[https://gadget-heaven-mu.vercel.app/]
 
 ## Project Overview
 
